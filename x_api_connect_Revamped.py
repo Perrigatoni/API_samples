@@ -1,6 +1,7 @@
 import tweepy
 # receive credentials from protected file.
 # the protected file is not present on github
+# and obviously that was purposeful... 
 import x_credentials
 
 # X Authentication initializer handler, needed to pass in the API

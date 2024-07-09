@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- unlike HTML, XML simply carries data without format. -->
+<NewOrder>
+    <OrderNumber>001</OrderNumber>
+    <OrdererName>PeriklisStamatis</OrdererName>
+    <Date>08 Jul 2024</Date>
+    <Item>
+        <ItemNum>26875940</ItemNum>
+        <ItemAmount>3</ItemAmount>
+        <ItemDetails>No gift packaging.</ItemDetails>
+    </Item>
+</NewOrder>
